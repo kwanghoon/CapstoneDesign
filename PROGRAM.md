@@ -25,7 +25,7 @@
 |16 | A2* | 윤성수,신미주(발표자),임수민 |스마트미터(AMI) 공격 시나리오 기반 인공지능 NIDS 개발 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A02_임수민.pdf), [동영상](https://youtu.be/azVSgC-H2s0)) 
 |17 | B2*| X. Pengfei(발표자), Q. Yihang|Swing과 JDBC에서 개발한 그래픽 인터페이스 데스크톱 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B02_xu_pengfei.pdf), [동영상](https://youtu.be/1nOg_4C56EU))
 |18 | A5* | 강성주(발표자), 김구민, 석인기 |재난대응 수소가스누출탐지 어플리케이션 제작 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A05_강성주.pdf), ~~동영상~~) 
-|19 | A10| 최승진(발표자), 김현지, 임아연 |공공데이터를 인공지능 방법으로 분석한 포털 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A10_최승진.pdf), [동영상](https://youtu.be/-DGR-LD8XEQ)) 
+|19 | A10*| 최승진(발표자), 김현지, 임아연 |공공데이터를 인공지능 방법으로 분석한 포털 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A10_최승진.pdf), [동영상](https://youtu.be/-DGR-LD8XEQ)) 
 |20 | A4* | 김태현, 조정민, 황수림(발표자) |전남대학교 정보를 보다 손쉽게 접할 수 있는 인공지능 챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A04_황수림.pdf), [동영상](https://youtu.be/I-fhApQiVNg))
 |21 | A6 | E. Kamronb(발표자), K. Sayfullokh, K. Salimjon|Mission 프로그래밍 가능한 드론 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A06_erkinov_kamronb.pdf), [동영상](https://youtu.be/8uRXW-3CG7E))
 |22 | A12| 우영주(발표자), P. T. C. Andres, D. DMITRIY|근전도 센서를 활용한 음악 만들기 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A12_우영주.pdf), [동영상](https://youtu.be/hmnrhhzyo-E)) 
