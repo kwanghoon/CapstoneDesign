@@ -29,6 +29,8 @@
 |24 | A16| 양동현, 정유정, 심현우|텍스트를 분석해 감정에 맞는 음악과 분위기를 조성해주는 VR 콘텐츠 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A16_양동현.pdf), [동영상](https://youtu.be/WB5q1fetcyg))
 |25 | A8 | 나지수, 김동민, 장승우|코로나 바이러스 안내 인공지능 한글챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A08_나지수.pdf), [동영상](https://youtu.be/eECXXcj4KFE))
 
+##### 발표자료를 제출하지 않은 팀은 발표 순서에서 제외했습니다.
+
 
 
 
