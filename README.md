@@ -33,7 +33,7 @@
 | B3| 형재운, 신현주|텍스트와 이모티콘으로 감정 및 날씨를 분석하여 음악을 추천하는 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B03_형재운.pdf), [동영상](https://youtu.be/v1aGRZp4c6M)) |이귀상|
 | B4| 홍준택|스마트폰 카메라를 통한 음식 성분표 인식 (~~발표자료~~, [동영상](https://youtu.be/Ca8AKP_e1WI)) | 유석봉|
 | ~~B5~~| ~~김용호~~|~~쇼핑몰 홈페이지~~ (~~발표자료,동영상~~) ||
-| B6| M. Lifei|unity 활용 1인칭 게임 (~~발표자료~~, [동영상](https://youtu.be/SZ-tj8pioko)) |최광훈|
+| B6| M. Lifei|unity 활용 1인칭 게임 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B06_ma_lifei.pdf), [동영상](https://youtu.be/SZ-tj8pioko)) |최광훈|
 | C1| 윤성호| 위험상황 방지 영아 모니터링 (A13조)([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/C01_윤성호.pdf), [동영상](https://youtu.be/MAzgoSw1LBk)) | |
 
 
