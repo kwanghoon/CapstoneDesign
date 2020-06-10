@@ -4,6 +4,8 @@
 ## 접속 방법: 
 ### YouTube에서 검색어 '소프트웨어공학종합프로젝트', '캡스톤디자인', '전남대', '소프트웨어공학과'로 실시간 스트리밍 검색
 
+## 팀별 발표자료와 동영상
+
 |팀 번호|  팀 구성원| 제목 | 캡디 지도교수|
 |:---:|:------:|:---------:|:---:|
 | A1 | 김우재,박상우,이현성 |Hyperledger Fabric을 이용한 블록체인 기반 인증형 설문 웹 어플리케이션 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A01_김우재.pdf), [동영상](https://youtu.be/0V_I0TBPGUo)) |김경백|
