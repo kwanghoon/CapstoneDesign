@@ -28,7 +28,7 @@
 |19 | A10*| 최승진(발표자), 김현지, 임아연 |공공데이터를 인공지능 방법으로 분석한 포털 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A10_최승진.pdf), [동영상](https://youtu.be/-DGR-LD8XEQ)) 
 |20 | A4* | 김태현, 조정민, 황수림(발표자) |전남대학교 정보를 보다 손쉽게 접할 수 있는 인공지능 챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A04_황수림.pdf), [동영상](https://youtu.be/I-fhApQiVNg))
 |21 | A6 | E. Kamronb(발표자), K. Sayfullokh, K. Salimjon|Mission 프로그래밍 가능한 드론 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A06_erkinov_kamronb.pdf), [동영상](https://youtu.be/8uRXW-3CG7E))
-|22 | A12| 우영주(발표자), P. T. C. Andres, D. DMITRIY|근전도 센서를 활용한 음악 만들기 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A12_우영주.pdf), [동영상](https://youtu.be/hmnrhhzyo-E)) 
+|22 | A12*| 우영주(발표자), P. T. C. Andres, D. DMITRIY|근전도 센서를 활용한 음악 만들기 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A12_우영주.pdf), [동영상](https://youtu.be/hmnrhhzyo-E)) 
 |23 | A20| 서영성, 류교서(발표자), 김용정|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A20_류교서.pdf), ~~동영상~~)
 |24 | A16| 양동현(발표자), 정유정, 심현우|텍스트를 분석해 감정에 맞는 음악과 분위기를 조성해주는 VR 콘텐츠 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A16_양동현.pdf), [동영상](https://youtu.be/WB5q1fetcyg))
 |25 | A8* | 나지수, 김동민, 장승우(발표자)|코로나 바이러스 안내 인공지능 한글챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A08_나지수.pdf), [동영상](https://youtu.be/eECXXcj4KFE))
