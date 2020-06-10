@@ -30,7 +30,7 @@
 |21 | A6 | E. Kamronb(발표자), K. Sayfullokh, K. Salimjon|Mission 프로그래밍 가능한 드론 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A06_erkinov_kamronb.pdf), [동영상](https://youtu.be/8uRXW-3CG7E))
 |22 | A12*| 우영주(발표자), P. T. C. Andres, D. DMITRIY|근전도 센서를 활용한 음악 만들기 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A12_우영주.pdf), [동영상](https://youtu.be/hmnrhhzyo-E)) 
 |23 | A20| 서영성, 류교서(발표자), 김용정|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A20_류교서.pdf), ~~동영상~~)
-|24 | A16| 양동현(발표자), 정유정, 심현우|텍스트를 분석해 감정에 맞는 음악과 분위기를 조성해주는 VR 콘텐츠 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A16_양동현.pdf), [동영상](https://youtu.be/WB5q1fetcyg))
+|24 | A16*| 양동현(발표자), 정유정, 심현우|텍스트를 분석해 감정에 맞는 음악과 분위기를 조성해주는 VR 콘텐츠 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A16_양동현.pdf), [동영상](https://youtu.be/WB5q1fetcyg))
 |25 | A8* | 나지수, 김동민, 장승우(발표자)|코로나 바이러스 안내 인공지능 한글챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A08_나지수.pdf), [동영상](https://youtu.be/eECXXcj4KFE))
 |26| B6| M. Lifei|unity 활용 1인칭 게임 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B06_ma_lifei.pdf), [동영상](https://youtu.be/SZ-tj8pioko)) 
 
