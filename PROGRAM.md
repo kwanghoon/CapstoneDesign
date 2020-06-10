@@ -11,7 +11,7 @@
 |4 | A19*| 천승혁(발표자), 이수연, 하도형|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A19_천승혁.pdf), [동영상](https://youtu.be/oH8xiSKJswg))
 |5 | A3 | 곽선우(발표자), 김솔, 최영수   |Wifi 기계학습을 통한 공간의 혼잡도 분석 및 AR 어플 개발 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A03_곽선우.pdf), [동영상](https://youtu.be/718cjjp0oHc))
 |6 | A18*| 홍예진(발표자), 오정운, 이혜원|시각장애인을 위한 딥러닝 기반 전자 텍스트 점자 변환 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A18_홍예진.pdf), [동영상](https://youtu.be/5qHvTHobMVo)) 
-|7 | A11| 정종민(발표자), 윤지석, 정병재|AI기반 꽃 판 별 및 꽃집 연계 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A11_정종민.pdf), [동영상](https://youtu.be/q5A5jjLWIvg))
+|7 | A11*| 정종민, 윤지석(발표자), 정병재|AI기반 꽃 판 별 및 꽃집 연계 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A11_정종민.pdf), [동영상](https://youtu.be/q5A5jjLWIvg))
 |8 | A15*| 김륜광, 정현수, 홍준표(발표자)|프렌차이즈 맵 - 모르는 지역을 방문했을 때 원하는 프랜차이즈가 있는 동네를 검색 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A15_김륜광.pdf), [동영상](https://youtu.be/xfKSqrLXbCs))
 |9 | B3| 형재운(발표자), 신현주|텍스트와 이모티콘으로 감정 및 날씨를 분석하여 음악을 추천하는 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B03_형재운.pdf), [동영상](https://youtu.be/v1aGRZp4c6M))
 |10 | A7 | 이호진(발표자), 김사연, 박다원 |딥러닝 기반 욕설 탐지 웹 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A07_이호진.pdf),  [동영상](https://youtu.be/UDmadn7gi4w)) 
