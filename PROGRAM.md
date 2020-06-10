@@ -17,7 +17,7 @@
 |10 | A7 | 이호진(발표자), 김사연, 박다원 |딥러닝 기반 욕설 탐지 웹 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A07_이호진.pdf),  [동영상](https://youtu.be/UDmadn7gi4w)) 
 |11 | A9 | 오중균(발표자), 김두영, 이재헌 |컴퓨터 비전을 이용한 차량 번호판 및 차종 인식 프로그램 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A09_오중균.pdf), [동영상](https://youtu.be/H3-SVf0Ps4c))
 |12 | B1| 조민우(발표자)|웹을 이용한 큐잉 시스템 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B01_조민우.pdf), [동영상](https://youtu.be/78RByvnVMOo)) 
-|13 | A17| 김남수(발표자), 한규정, 천승민|허위 정보를 필터링해주는 신뢰성 있는 영화 리뷰 웹 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A17_김남수.pdf), [동영상](https://youtu.be/B0ZBw9PDznk))
+|13 | A17*| 김남수(발표자), 한규정, 천승민|허위 정보를 필터링해주는 신뢰성 있는 영화 리뷰 웹 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A17_김남수.pdf), [동영상](https://youtu.be/B0ZBw9PDznk))
 |14 | A13| 김재윤(발표자), 김민서, ~~윤성호~~|머신러닝 기반 암호화폐 시세 예측 시스템 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A13_김재윤.pdf), [동영상](https://youtu.be/J7g09wuwTcw))
 |15 | A21| 박지안, 박성유, 맹시현(발표자)|구글의 Speech-to-Text API를 활용한 음성 텍스트 전환과 전환 내용 요약 검색 기능 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A21_맹시현.pdf), [동영상](https://youtu.be/10v9paSYxs8)) 
 |16 | A2* | 윤성수,신미주(발표자),임수민 |스마트미터(AMI) 공격 시나리오 기반 인공지능 NIDS 개발 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A02_임수민.pdf), [동영상](https://youtu.be/azVSgC-H2s0)) 
