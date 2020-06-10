@@ -18,7 +18,7 @@
 | A9 | 오중균, 김두영, 이재헌 |컴퓨터 비전을 이용한 차량 번호판 및 차종 인식 프로그램 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A09_오중균.pdf), [동영상](https://youtu.be/H3-SVf0Ps4c)) |정희용|
 | A10| 최승진, 김현지, 임아연 |공공데이터를 인공지능 방법으로 분석한 포털 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A10_최승진.pdf), [동영상](https://youtu.be/-DGR-LD8XEQ)) |김경백|
 | A11| 정종민, 윤지석, 정병재|AI기반 꽃 판 별 및 꽃집 연계 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A11_정종민.pdf), [동영상](https://youtu.be/q5A5jjLWIvg)) |양형정|
-| A12| 우영주 P. T. C. Andres, D. DMITRIY|근전도 센서를 활용한 음악 만들기 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A12_우영주.pdf), [동영상](https://youtu.be/hmnrhhzyo-E)) | 정희용|
+| A12| 우영주 P. T. C. Andres, D. DMITRIY|근전도 센서를 활용한 음악 만들기 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A12_우영주.pdf), [동영상](https://youtu.be/T9ILxEDesiw)) | 정희용|
 | A13| 김재윤, 김민서, ~~윤성호~~|머신러닝 기반 암호화폐 시세 예측 시스템 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A13_김재윤.pdf), [동영상](https://youtu.be/J7g09wuwTcw)) |김수형|
 | A14| 박권희, 박찬호, 이권성|자폐아를 위한 감정(표정)인식 놀이(치료목적,교육) 관련 안드로이드 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A14_박권희.pdf), [동영상](https://youtu.be/pttJUEeFJ8U)) |유석봉|
 | A15| 김륜광, 정현수, 홍준표|프렌차이즈 맵 - 모르는 지역을 방문했을 때 원하는 프랜차이즈가 있는 동네를 검색 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A15_김륜광.pdf), [동영상](https://youtu.be/xfKSqrLXbCs)) |강대욱|
