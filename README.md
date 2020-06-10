@@ -6,9 +6,7 @@
 
 |팀 번호|  팀 구성원| 제목 | 캡디 지도교수|
 |:---:|:------:|:---------:|:---:|
-| A1 | 김우재, 박상우, 이현성 |Hyperledger Fabric을 이용한 블록체인 기반 인증형 설문 웹 어플리케이션
-  ([발표자료](https://github.com/kwanghoon/CapstoneDesign/data/A01_김우재.pdf),
-   [동영상](https://youtu.be/0V_I0TBPGUo)) |김경백|
+| A1 | 김우재, 박상우, 이현성 |Hyperledger Fabric을 이용한 블록체인 기반 인증형 설문 웹 어플리케이션 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/data/A01_김우재.pdf), [동영상](https://youtu.be/0V_I0TBPGUo)) |김경백|
 | A2 | 윤성수, 신미주, 임수민 |스마트미터(AMI) 공격 시나리오 기반 인공지능 NIDS 개발
   ([발표자료](https://github.com/kwanghoon/CapstoneDesign/data/A02_임수민.pdf),
    [동영상](https://youtu.be/azVSgC-H2s0)) |김경백|
