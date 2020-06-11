@@ -27,7 +27,7 @@
 | A17| 김남수, 한규정, 천승민|허위 정보를 필터링해주는 신뢰성 있는 영화 리뷰 웹 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A17_김남수.pdf), [동영상](https://youtu.be/B0ZBw9PDznk)) |양형정|
 | A18| 홍예진, 오정운, 이혜원|시각장애인을 위한 딥러닝 기반 전자 텍스트 점자 변환 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A18_홍예진.pdf), [동영상](https://youtu.be/5qHvTHobMVo)) |유석봉|
 | A19| 천승혁, 이수연, 하도형|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A19_천승혁.pdf), [동영상](https://youtu.be/oH8xiSKJswg)) |박혁로|
-| A20| 서영성, 류교서, 김용정|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A20_류교서.pdf), ~~동영상~~) |김수형|
+| A20| 서영성, 류교서, 김용정|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A20_류교서.pdf), [동영상](https://youtu.be/REvGB4VbGRg)) |김수형|
 | A21| 박지안, 박성유, 맹시현|구글의 Speech-to-Text API를 활용한 음성 텍스트 전환과 전환 내용 요약 검색 기능 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A21_맹시현.pdf), [동영상](https://youtu.be/10v9paSYxs8)) |강대욱|
 | B1| 조민우|웹을 이용한 큐잉 시스템 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B01_조민우.pdf), [동영상](https://youtu.be/78RByvnVMOo)) | 최광훈|
 | B2| X. Pengfei, Q. Yihang|Swing과 JDBC에서 개발한 그래픽 인터페이스 데스크톱 앱 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B02_xu_pengfei.pdf), [동영상](https://youtu.be/1nOg_4C56EU)) |황부현|

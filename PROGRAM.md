@@ -29,7 +29,7 @@
 |21 | A8* | 나지수, 김동민, 장승우(발표자)|코로나 바이러스 안내 인공지능 한글챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A08_나지수.pdf), [동영상](https://youtu.be/eECXXcj4KFE))
 |22 | A6 | E. Kamronb(발표자), K. Sayfullokh, K. Salimjon|Mission 프로그래밍 가능한 드론 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A06_erkinov_kamronb.pdf), [동영상](https://youtu.be/8uRXW-3CG7E))
 |23| B6| M. Lifei|unity 활용 1인칭 게임 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B06_ma_lifei.pdf), [동영상](https://youtu.be/SZ-tj8pioko)) 
-|24 | A20| 서영성, 류교서(발표자), 김용정|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A20_류교서.pdf), ~~동영상~~)
+|24 | A20| 서영성, 류교서(발표자), 김용정|텍스트 분석으로 감정에 맞는 노래 추천 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A20_류교서.pdf), [동영상](https://youtu.be/REvGB4VbGRg))
 |25 | A13| 김재윤(발표자), 김민서, ~~윤성호~~|머신러닝 기반 암호화폐 시세 예측 시스템 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A13_김재윤.pdf), [동영상](https://youtu.be/J7g09wuwTcw))
 |26 | B1| 조민우(발표자)|웹을 이용한 큐잉 시스템 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/B01_조민우.pdf), [동영상](https://youtu.be/78RByvnVMOo)) 
 
