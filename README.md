@@ -12,7 +12,7 @@
 | A2 | 윤성수,신미주,임수민 |스마트미터(AMI) 공격 시나리오 기반 인공지능 NIDS 개발 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A02_임수민.pdf), [동영상](https://youtu.be/azVSgC-H2s0)) |김경백|
 | A3 | 곽선우, 김솔, 최영수   |Wifi 기계학습을 통한 공간의 혼잡도 분석 및 AR 어플 개발 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A03_곽선우.pdf), [동영상](https://youtu.be/718cjjp0oHc)) |최덕재|
 | A4 | 김태현, 조정민, 황수림 |전남대학교 정보를 보다 손쉽게 접할 수 있는 인공지능 챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A04_황수림.pdf), [동영상](https://youtu.be/I-fhApQiVNg)) |김수형|
-| A5 | 강성주, 김구민, 석인기 |재난대응 수소가스누출탐지 어플리케이션 제작 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A05_강성주.pdf), ~~동영상~~) |김경백|
+| A5 | 강성주, 김구민, 석인기 |재난대응 수소가스누출탐지 어플리케이션 제작 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A05_강성주.pdf), [동영상](https://youtu.be/-v8iYMX2HN8)) |김경백|
 | A6 | E. Kamronb, K. Sayfullokh, K. Salimjon|Mission 프로그래밍 가능한 드론 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A06_erkinov_kamronb.pdf), [동영상](https://youtu.be/8uRXW-3CG7E)) |이귀상|
 | A7 | 이호진, 김사연, 박다원 |딥러닝 기반 욕설 탐지 웹 서비스 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A07_이호진.pdf),  [동영상](https://youtu.be/UDmadn7gi4w)) |정희용|
 | A8 | 나지수, 김동민, 장승우|코로나 바이러스 안내 인공지능 한글챗봇 구현 ([발표자료](https://github.com/kwanghoon/CapstoneDesign/blob/master/data/A08_나지수.pdf), [동영상](https://youtu.be/eECXXcj4KFE)) | 박혁로|
